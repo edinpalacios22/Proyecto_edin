@@ -1,0 +1,10 @@
+img{
+    width: 30px;
+}
+
+h1{
+    font-size: 30px;
+}
+.cambiar_color:hover{
+    filter: invert(100%);
+}
