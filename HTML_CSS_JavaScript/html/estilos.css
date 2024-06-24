@@ -1,0 +1,38 @@
+h3 {
+    color: aqua;
+}
+h1 {
+    text-align: center;
+    color: aquamarine;
+}
+div .parrafo {
+    color: rgb(0, 255, 157);
+}
+div > ol{
+    color: rgb(4, 0, 255);
+}
+div > li{
+    color: rgb(4, 0, 255);
+}
+p { color: rgb(4, 0, 255);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+h1{
+    border-style: inset;
+    border-color: aquamarine;
+    border-color: azure;
+    border-width: 25px;
+}
+#imagen:hover{
+    transform: scale(1.2);
+}
+#imagen{
+    transition: transform 0.4s ease;
+}
+img{
+    border-radius: 100px;
+    width: 200px;
+}
+div > h2{
+    color: rgb(4, 0, 255);
+}

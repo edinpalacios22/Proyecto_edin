@@ -1,0 +1,33 @@
+body {
+    background: teal;
+    width: 150%;
+    height: 150%;
+    margin: 20%;
+}
+/*<form action="aldo" method="get">
+        <label for="fname">NOMBRE</label>
+        <input type="text" id="fname" name="fname" placeholder="ingrese su nombre" required><br>
+        <label for="Contrasena">Contrasena</label>
+        <input type="password" id="Contrasena" name="Contrasena" placeholder="ingrese su Contrasena"required> <br>
+        <h3>Seleccione su nivel de estudio</h3>
+        <label for="radio">Profesional</label>
+        <input type="radio" id="radio" name="radio" value="Profesional"> <br>
+        <label for="radio">Tecnologo</label>
+        <input type="radio" id="radio" name="radio" value="Tecnologo"> <br>
+        <label for="radio">Tecnico</label>
+        <input type="radio" id="radio" name="radio" value="Tecnico"> <br>
+        <h3>Seleccione los lenguages de programacion que conoces</h3>
+        <input type="checkbox">
+        <label for="jav">java</label>
+        <input type="checkbox">
+        <label for="c+">c++</label>
+        <input type="checkbox">
+        <label for="py">python</label>
+        <input type="checkbox">
+        <label for="ph">php</label>
+        <input type="checkbox">
+        <label for="c#">c#</label> <br>
+        <input type="submit" value="enviar">
+        <input type="reset" value="limpiar">
+    </form>
+     */
